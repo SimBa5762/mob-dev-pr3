@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id btnCalculate
+id btnClear
+id btnDate
+id btnTime
+id cbDetails
+id coordinatorLayout
+id etFirstNumber
+id etSecondNumber
+id lvHistory
+id rbAdd
+id rbDivide
+id rbMultiply
+id rbSubtract
+id rgOperation
+id seekBarPrecision
+id tbSound
+id tvPrecisionLabel
+id tvResult
+id tvSelectedDate
+id tvSelectedTime
+id tvTitle
+layout activity_main
+string app_name
+style Theme.CalculatorApp

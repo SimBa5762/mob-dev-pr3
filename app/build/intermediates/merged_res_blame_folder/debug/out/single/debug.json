@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.calculatorapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.calculatorapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bohda\\.gradle\\daemon\\8.2\\com.example.calculatorapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bohda\\.gradle\\daemon\\8.2\\com.example.calculatorapp-main-33:\\layout\\activity_main.xml"
+    }
+]
